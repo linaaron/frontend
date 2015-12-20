@@ -1,0 +1,13 @@
+{
+  "name": "myNodeTest",
+  "description": "myNodeTest",
+  "version": "0.0.1",
+  "author": {
+    "name": "aaron lin"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jquery": "^2.1.4",
+    "jsonp": "^0.2.0"
+  }
+}
