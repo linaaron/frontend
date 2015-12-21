@@ -1,0 +1,7 @@
+.ie8 span.color {
+    background: yellow;
+}
+
+span.color {
+    background: red;
+}
